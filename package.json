@@ -1,0 +1,11 @@
+{
+  "name": "process-volumes",
+  "version": "0.1.0",
+  "description": "API to check how much volume is emitted by other applications.",
+  "author": "Robert Böhm <robert@boehm.pm>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rynti/node-process-volumes.git"
+  }
+}
