@@ -15,7 +15,7 @@ their currently emitted volume.
 
 The data returned by getProcessVolumes() looks like this:
 
-```json
+```js
 [
   { processId: 0, processName: '', peakVolume: 0 },
   { processId: 1234, processName: 'example.exe', peakVolume: 0.75 },
